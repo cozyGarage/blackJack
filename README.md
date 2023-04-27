@@ -26,3 +26,5 @@ It’s a draw if both players got the same points.
 The player who gets Blackjack wins.
 If both players got Blackjack with 2 cards – It’s a draw.
 If both players got Blackjack with 3 or more cards – It’s a draw.
+
+Improve the flip
