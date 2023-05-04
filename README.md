@@ -28,3 +28,4 @@ If both players got Blackjack with 2 cards – It’s a draw.
 If both players got Blackjack with 3 or more cards – It’s a draw.
 
 Improve the flip
+Working on the flip
