@@ -29,3 +29,4 @@ If both players got Blackjack with 3 or more cards – It’s a draw.
 
 Improve the flip
 Working on the flip
+Update 7/5
