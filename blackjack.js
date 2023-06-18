@@ -5,8 +5,8 @@ let playerAceCount = 0;
 let hidden;
 let deck;
 let canHit = true; // allows the player to draw while yourSum<21
-
-const dealerCards = document.getElementById("dealer-cards");
+// get-all the document.
+const dealerCards = document.getElementById("dealer-cards"); 
 const playerCards = document.getElementById("player-cards");
 const dealerSumDisplay = document.getElementById("dealer-sum");
 const playerSumDisplay = document.getElementById("player-sum");
